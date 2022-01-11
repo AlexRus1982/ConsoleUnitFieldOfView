@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleUnitFieldOfView.cpp" />
+    <ClCompile Include="vec2d.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vec2d.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
