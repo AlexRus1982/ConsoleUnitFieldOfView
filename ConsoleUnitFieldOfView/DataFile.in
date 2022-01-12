@@ -1,0 +1,16 @@
+ViewAngle 135.5//some comments
+ViewDistance 2
+Unit posVec(1.0,1.0) viewVec(0.0,1.0)
+Unit posVec(1.0,2.0) viewVec(1.0,0.0)
+Unit posVec(-5.0,-1.0) viewVec(0.707,0.707)
+
+//Unit posVec(-14.9625,1.90756) viewVec(-0.613392,0.617481)
+//Unit posVec(2.55028,-0.603809) viewVec(-0.299417,0.791925)
+//Unit posVec(9.6852,7.39814) viewVec(-0.651784,0.717887)
+//Unit posVec(6.31504,0.406049) viewVec(-0.39201,-0.970031)
+//Unit posVec(-12.2579,-4.06644) viewVec(-0.705374,-0.668203)
+//Unit posVec(14.6558,-1.62923) viewVec(-0.761834,-0.990661)
+//Unit posVec(-14.7327,-3.66359) viewVec(0.0633259,0.142369)
+//Unit posVec(3.05292,3.21497) viewVec(-0.667531,0.32609)
+//Unit posVec(-1.47633,-4.43632) viewVec(-0.885922,0.215369)
+//Unit posVec(8.49956,9.07819) viewVec(0.0397656,-0.3961)
